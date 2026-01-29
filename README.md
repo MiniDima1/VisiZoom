@@ -20,4 +20,4 @@ VisiZoom - современное приложение для просмотра
 
 ## Официальный сайт
 
-https://cl.isaka.su/
+https://cl.isaka.su/VisiZoom
